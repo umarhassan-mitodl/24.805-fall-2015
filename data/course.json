@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ]
+  ],
+  "legacy_uid": "4581c588-b46e-5541-f56f-3e3066ca7aa4",
+  "instructors": {
+    "content": [
+      "2581e92b-4c42-9c65-dc0f-b1bd4dd81cf0",
+      "6e419183-531e-bf76-bc44-26e5c63d059e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2ed5c861-b3b7-257d-f5d5-c7272efeeffd",
+    "website": "24-805-topics-in-epistemology-self-knowledge-fall-2015"
+  },
+  "course_title": "Topics in Epistemology: Self-Knowledge",
+  "hide_download": true,
+  "course_description": "This course is a graduate seminar surveying recent work on self-knowledge. Some questions that will be explored and discussed are: What is the distinctive philosophical interest of self-knowledge? Is self-knowledge really an _epistemic_ achievement? Is it plausible that there is a uniform explanation of all distinctively first-personal self-knowledge?\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.805",
+  "course_image_thumbnail": {
+    "content": "07d48384-db70-e936-aaa1-409cf25b3a0b",
+    "website": "24-805-topics-in-epistemology-self-knowledge-fall-2015"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "f86d7a15-2c78-4941-9476-b9ea19f27310",
+  "site_short_id": "24.805-fall-2015",
+  "site_url_path": "courses/24-805-topics-in-epistemology-self-knowledge-fall-2015",
+  "title": "Course Metadata"
+}
